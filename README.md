@@ -36,3 +36,21 @@ Unit 4: Iteration
  - 4.3 Developing Algorithms Using Strings
  - 4.4 Nested Iteration
  - 4.5 Informal Code Analysis
+
+Unit 5: Writing Classes
+ - 5.1 Writing Classes
+ - 5.2 Constructors
+ - 5.3 Documentation with Comments
+ - 5.4 Accessor Methods
+ - 5.5 Mutator Methods
+ - 5.6 Writing Methods
+ - 5.7 Static Variables with Methods
+ - 5.8 Scope and Access
+ - 5.9 this Keyword
+ - 5.10 Ethical and Social Implications of Computing
+
+Unit 6: Array
+ - 6.1 Array
+ - 6.2 Traversing Arrays
+ - 6.3 Enhanced for Loop for Arrays
+ - 6.4 Developing Algorithms Using Arrays

@@ -20,3 +20,12 @@ Unit 2: Using Objects
  - 2.8 String Methods
  - 2.9 Wrapper Classes: Integers and Doubles
  - 2.10 Using the Math Class
+
+Unit 3: Boolean Expressions and if Statements
+ - 3.1 Boolean Expressions and if Statements
+ - 3.2 if Statements and Control Flow
+ - 3.3 if-else Statements
+ - 3.4 else if Statements
+ - 3.5 Compound Boolean Expressions
+ - 3.6 Equivalent Boolean Expressions
+ - 3.7 Comparing Objects

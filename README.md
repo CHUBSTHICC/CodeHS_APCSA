@@ -1,7 +1,7 @@
 # CodeHS_Nitro_APCSA
 All of my APCSA work from CodeHS Nitro.
 
-Unit 1: Primitive Types
+# Unit 1: Primitive Types
  - 1.1 Why programming? Why Java?
  - 1.2 Variables and Data Types
  - 1.3 Expressions and Assignment Statements

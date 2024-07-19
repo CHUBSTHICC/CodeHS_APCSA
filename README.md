@@ -1,4 +1,4 @@
-# CodeHS_Nitro_APCSA
+# CodeHS Nitro
 All of my APCSA work from CodeHS Nitro.
 
 ### Unit 1: Primitive Types
